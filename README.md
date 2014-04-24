@@ -3,7 +3,8 @@
 [![Build Status](https://travis-ci.org/KenanY/jots.svg?branch=master)](https://travis-ci.org/KenanY/jots)
 [![Dependency Status](https://gemnasium.com/KenanY/jots.svg)](https://gemnasium.com/KenanY/jots)
 
-String similarity scoring as used in Jotto.
+String similarity scoring as used in
+[Jotto](https://en.wikipedia.org/wiki/Jotto).
 
 ## Example
 
