@@ -1,0 +1,30 @@
+{
+  "name": "jots",
+  "version": "0.0.0",
+  "description": "String similarity scoring as used in Jotto.",
+  "keywords": [
+    "word",
+    "jotto"
+  ],
+  "repository": "KenanY/jots",
+  "license": "MIT",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE.txt"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "dependencies": {
+    "lodash.contains": "^2.4.1"
+  },
+  "devDependencies": {
+    "lodash.isfunction": "^2.4.1",
+    "tape": "^2.12.3"
+  }
+}
