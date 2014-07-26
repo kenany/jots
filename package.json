@@ -20,9 +20,6 @@
   "scripts": {
     "test": "tape test/index.js"
   },
-  "dependencies": {
-    "lodash.contains": "^2.4.1"
-  },
   "devDependencies": {
     "lodash.isfunction": "^2.4.1",
     "tape": "^2.12.3"

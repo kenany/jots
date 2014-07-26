@@ -1,10 +1,10 @@
-var contains = require('lodash.contains');
-
 function jots(correct, guess) {
   var score = 0;
   for (var i = 0, length = guess.length; i < length; i++) {
-    if (contains(correct, guess.charAt(i))) {
-      score++;
+    for (var j = 0; j < length; j++) {
+      if (correct.charAt(j) === guess.charAt(i)) {
+        score++;
+      }
     }
   }
   return score;
