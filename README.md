@@ -27,7 +27,7 @@ $ npm install jots
 var jots = require('jots');
 ```
 
-### jots(correct, guess)
+### `jots(correct, guess)`
 
 Returns how many characters _String_ `guess` has in common with _String_
 `correct`. **Assumes that `guess`
