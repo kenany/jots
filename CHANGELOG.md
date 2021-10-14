@@ -1,3 +1,14 @@
+## [3.0.0](https://github.com/KenanY/jots/compare/2.0.1...3.0.0) (2021-10-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* **ci:** Node.js v10 is no longer supported.
+
+### Features
+
+* **ci:** add Node.js v16, remove Node.js v10 ([1a55c1d](https://github.com/KenanY/jots/commit/1a55c1d9cc5850e449e357715d3479bb73d8ae6d))
+
 ### [2.0.1](https://github.com/KenanY/jots/compare/2.0.0...2.0.1) (2021-10-14)
 
 
