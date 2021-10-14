@@ -1,3 +1,8 @@
+/**
+ * @param {string} correct
+ * @param {string} guess
+ * @returns {number}
+ */
 function jots(correct, guess) {
   var score = 0;
   for (var i = 0, length = guess.length; i < length; i++) {
