@@ -1,6 +1,6 @@
 {
   "extends": [
-    "@kenan"
+    "@kenan/renovate-config"
   ],
   "rangeStrategy": "bump"
 }
