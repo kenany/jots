@@ -1,3 +1,14 @@
+## [4.0.0](https://github.com/KenanY/jots/compare/3.0.0...4.0.0) (2022-12-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* Node.js v12 is no longer supported.
+
+### Features
+
+* drop Node.js v12 support ([a22d0bd](https://github.com/KenanY/jots/commit/a22d0bdb6e86d846b6c54d52267ac22db819dd12))
+
 ## [3.0.0](https://github.com/KenanY/jots/compare/2.0.1...3.0.0) (2021-10-14)
 
 

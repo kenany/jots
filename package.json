@@ -1,6 +1,6 @@
 {
   "name": "jots",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "String similarity scoring as used in Jotto.",
   "keywords": [
     "word",
