@@ -1,3 +1,14 @@
+## [5.0.0](https://github.com/kenany/jots/compare/4.0.0...5.0.0) (2023-09-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Node.js v14 and v16 are no longer supported.
+
+### Features
+
+* drop Node.js v14 and v16 ([0f39bc3](https://github.com/kenany/jots/commit/0f39bc376fa742e90461d0a22a73d525bfd8c694))
+
 ## [4.0.0](https://github.com/KenanY/jots/compare/3.0.0...4.0.0) (2022-12-05)
 
 
