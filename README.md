@@ -6,7 +6,7 @@ String similarity scoring as used in
 ## Example
 
 ``` javascript
-var jots = require('jots');
+import { jots } from 'jots';
 
 jots('bread', 'beard');
 // => 5
@@ -21,7 +21,7 @@ $ npm install jots
 ## API
 
 ``` javascript
-var jots = require('jots');
+import { jots } from 'jots';
 ```
 
 ### `jots(correct, guess)`
