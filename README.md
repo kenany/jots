@@ -5,7 +5,7 @@ String similarity scoring as used in
 
 ## Example
 
-``` javascript
+```javascript
 import { jots } from 'jots';
 
 jots('bread', 'beard');
@@ -14,13 +14,13 @@ jots('bread', 'beard');
 
 ## Installation
 
-``` bash
+```bash
 $ npm install jots
 ```
 
 ## API
 
-``` javascript
+```javascript
 import { jots } from 'jots';
 ```
 
@@ -31,7 +31,7 @@ Returns how many characters _String_ `guess` has in common with _String_
 [does not have any repeating letters](https://github.com/KenanY/no-repeated-letters),
 otherwise this will happen:**
 
-``` javascript
+```javascript
 jots('bread', 'eeeee');
 // => 5
 ```
